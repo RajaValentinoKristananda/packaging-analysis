@@ -312,7 +312,7 @@ if "uploaded_bytes" not in st.session_state:
         )
         st.markdown(
             '<div style="text-align:center;font-size:12px;color:#9ca3af;margin-top:6px;">'
-            'Format: .xlsx atau .xls &nbsp;·&nbsp; Sheet: loadplan-2023 s/d loadplan-2026</div>',
+            'Format: .xlsx atau .xls</div>',
             unsafe_allow_html=True
         )
 
